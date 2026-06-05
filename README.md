@@ -94,12 +94,12 @@ I'm a passionate **Backend Engineer** focused on building highly scalable, relia
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HTD-0307&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTD-0307&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HTD-0307&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HTD-0307&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HTD-0307&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=HTD-0307&theme=tokyonight&v=1" alt="GitHub Streak" />
 </p>
 
 <br/>
