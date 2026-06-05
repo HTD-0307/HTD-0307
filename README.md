@@ -93,28 +93,19 @@ I'm a passionate **Backend Engineer** focused on building highly scalable, relia
 <!-- GitHub Analytics Section -->
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=HTD-0307&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTD-0307&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HTD-0307&theme=tokyonight" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HTD-0307&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTD-0307&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HTD-0307&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 <br/>
 
 <!-- Footer Section -->
 <div align="center">
-  <img src="https://komarev.com/github-profile-visitor-counter/?username=HTD-0307&color=0ea5e9&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=HTD-0307&color=0ea5e9&style=flat-square" alt="Visitor Counter" />
   <p><i>"Clean code always looks like it was written by someone who cares." — Michael Feathers</i></p>
 </div>
