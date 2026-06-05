@@ -81,7 +81,7 @@ I'm a passionate **Backend Engineer** focused on building highly scalable, relia
 
 *   **Architecture & Design Patterns**:
     *   🏛️ **Clean Architecture & SOLID**: Enforced strict separation of concerns across Domain, Core, Infrastructure, and Presentation layers to ensure business logic is 100% independent of external frameworks.
-    *   🧩 **Domain-Driven Design (DDD)**: Designed domains with rich behaviors, encapsulated entities, and clean repositories, ensuring a highly maintainable and scalable codebase for complex business logic.
+    *   ⚡ **CQRS Pattern**: Segregated read and write responsibilities to optimize database performance, scaling, and maintainability, decoupling complex transactional workflows.
 *   **Key Technical Implementations & Metrics**:
     *   🛡️ **Enterprise Security**: Secured payment/checkout flows with JWT Bearer authentication, refresh token rotation, Bcrypt hashing, OTP verification, and ECDSA digital signatures (`starkbank-ecdsa`) to prevent request tampering.
     *   ⚡ **High-Performance Caching**: Engineered a multi-tier caching strategy using `IDistributedCache`, reducing database query overhead by **up to 70%** and keeping API response times under **50ms**.
